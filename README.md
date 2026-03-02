@@ -344,3 +344,16 @@ Recruiter يسأل نفسه:
 👉 هل رفعت المشروع بالفعل؟
 👉 أو تريد README.md كامل الآن؟
 
+
+
+
+🧠 نصائح Recruiter-Level
+✔ سمّي Measures بأسماء واضحة
+✔ لا تستخدم أعمدة مباشرة في KPIs
+✔ كل KPI له Time Trend
+✔ Targets منطقية وليست عشوائية
+
+📄 ماذا تكتب في README؟
+- Designed executive KPIs using DAX (Sales, Orders, AOV, Growth)
+- Implemented time intelligence and performance targets
+- Built interactive Power BI dashboard connected to SQL Server views
