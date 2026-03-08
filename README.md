@@ -357,3 +357,27 @@ Recruiter يسأل نفسه:
 - Designed executive KPIs using DAX (Sales, Orders, AOV, Growth)
 - Implemented time intelligence and performance targets
 - Built interactive Power BI dashboard connected to SQL Server views
+
+
+
+
+
+
+## Power BI Dashboard
+- Connected to SQL Server analytical view (vw_clean_sales)
+- Interactive filters by Year, Region, Category
+- KPI monitoring: Total Sales, AOV, Growth
+- Time-series analysis with forecasting
+
+وأضف صورة:
+![Dashboard Preview](powerbi/dashboard_preview.png)
+هل vw_clean_sales يحتوي:
+order_date (DATE)
+sales (NUMERIC)
+category / sub-category
+region
+إذا نعم → أنت جاهز 100%
+إذا لا → نعدل الـ View الآن
+
+
+
