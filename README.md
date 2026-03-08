@@ -381,3 +381,215 @@ region
 
 
 
+
+
+
+Perfect choice 🔥
+هذا مشروع Data Analyst احترافي جدًا ومناسب 100% لسيرتك الذاتية خصوصًا مع ماستر Gestion et Analyse des Données Massives.
+مشروع واقعي + بيانات حقيقية + Dashboard + تقرير GitHub = 🚀
+
+📊 Project Title
+Retail Sales Performance Analysis & Customer Insights
+مشروع شبيه بما يعمل عليه Data Analysts في الشركات الحقيقية
+
+📁 1️⃣ Dataset (Real Data – Kaggle)
+✅ Dataset المختار
+Kaggle – Superstore Sales Dataset
+Why this dataset?
+بيانات حقيقية
+Dirty data (missing values + duplicates)
+متعددة الأبعاد (Time, Product, Customer, Region)
+ممتاز لـ EDA + Dashboard + Business Insights
+🔗 ابحث في Kaggle عن:
+Sample - Superstore Sales Dataset
+
+🎯 2️⃣ Business Problem (هذا مهم جدًا في CV)
+"The company wants to understand sales performance, profitability, and customer behavior to improve decision-making."
+Key Questions:
+ما هي المنتجات الأكثر ربحًا؟
+ما هي الخسائر الخفية؟
+هل هناك موسمية في المبيعات؟
+أي المناطق أفضل أداءً؟
+من هم أفضل العملاء؟
+
+🧹 3️⃣ Data Cleaning (Python – Pandas)
+خطوات احترافية:
+✔️ إزالة التكرارات
+✔️ معالجة القيم الناقصة
+✔️ تصحيح أنواع البيانات (Dates, Numeric)
+✔️ إنشاء أعمدة جديدة:
+Profit Margin
+Year / Month
+Shipping Delay
+Tools:
+Python – Pandas – NumPy
+
+
+🔍 4️⃣ Exploratory Data Analysis (EDA)
+تحليلات قوية:
+📌 Sales vs Profit
+📌 Top / Worst Products
+📌 Category & Sub-category Analysis
+📌 Customer Segmentation (RFM light)
+📌 Seasonal Trends
+📌 Shipping impact on Profit
+Visuals:
+Bar charts
+Line charts
+Boxplots
+Heatmaps
+Tools:
+Matplotlib – Seaborn
+
+
+📊 5️⃣ Power BI Dashboard (⭐ نقطة القوة)
+Dashboard Pages:
+🔹 Page 1: Executive Overview
+Total Sales
+Total Profit
+Profit Margin
+Orders Count
+🔹 Page 2: Product Analysis
+Top 10 Products
+Loss-making Products
+Category Profitability
+🔹 Page 3: Time Analysis
+Monthly & Yearly Sales
+Seasonality
+🔹 Page 4: Region & Customer
+Sales by Region
+Top Customers
+Shipping Mode Analysis
+📌 استخدم:
+Slicers (Year, Region, Category)
+KPIs
+Drill-down
+
+🧠 6️⃣ Insights & Recommendations (CV Gold)
+أمثلة:
+⚠️ بعض المنتجات تحقق مبيعات عالية لكن بخسارة
+📦 تأخير الشحن يقلل الربحية
+📈 الطلب يرتفع في Q4
+🏆 20% من العملاء يحققون 60% من الأرباح
+
+🗂️ 7️⃣ GitHub Structure (احترافي جدًا)
+Retail-Sales-Analysis/
+│
+├── data/
+│   └── raw_data.csv
+│
+├── notebooks/
+│   ├── 01_data_cleaning.ipynb
+│   ├── 02_eda.ipynb
+│
+├── dashboard/
+│   └── PowerBI_Dashboard.pbix
+│
+├── report/
+│   └── Business_Report.pdf
+│
+├── README.md
+└── requirements.txt
+
+
+📝 8️⃣ README.md (جاهز للسيرة الذاتية)
+يجب أن يحتوي:
+Project Objective
+Dataset Description
+Tools & Technologies
+Key Insights
+Dashboard Preview
+Business Recommendations
+
+✨ كيف تكتبه في الـ CV؟
+Data Analyst Project
+Retail Sales Performance Analysis
+Cleaned & analyzed real retail data (50k+ records)
+Conducted EDA to identify sales trends & profitability issues
+Built interactive Power BI dashboard for decision-makers
+Delivered actionable business insights
+
+ # 📊 Sales Performance Analysis & Forecasting Insights
+
+## 📌 Project Overview
+This project analyzes real retail sales data to uncover sales trends, profitability drivers, and customer behavior.  
+The goal is to provide actionable business insights and an interactive dashboard to support decision-making.
+
+---
+
+## 🎯 Business Objectives
+- Analyze sales and profit performance
+- Identify seasonal patterns and trends
+- Detect high-performing and low-performing products
+- Provide insights for sales optimization
+
+---
+
+## 📁 Dataset
+- Source: Kaggle – Sales Forecasting Dataset
+- Records: 9,800+ sales transactions
+- Features include:
+  - Order Date
+  - Sales
+  - Profit
+  - Quantity
+  - Category
+  - Sub-Category
+  - Region
+
+---
+
+## 🧹 Data Cleaning
+- Removed duplicates
+- Handled missing values
+- Converted date columns to datetime
+- Created new time-based features (Year, Month)
+
+---
+
+## 🔍 Exploratory Data Analysis (EDA)
+- Sales & profit distribution
+- Monthly and yearly sales trends
+- Category and sub-category performance
+- Regional analysis
+
+---
+
+## 📊 Dashboard (Power BI)
+An interactive Power BI dashboard including:
+- Sales & Profit KPIs
+- Time-based analysis
+- Product & category performance
+- Regional insights
+
+---
+
+## 🛠 Tools & Technologies
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Power BI
+- Git & GitHub
+
+---
+
+## 💡 Key Insights
+- Strong seasonality in sales performance
+- Some categories generate high sales but low profit
+- A small number of products contribute to most revenue
+---
+
+## 📌 Author
+Data Analyst | Big Data & Analytics Graduate
+كيف يظهر في الـ CV؟ 💼
+Data Analyst Project – Sales Performance Analysis
+Cleaned and analyzed real retail sales data
+
+
+Performed in-depth exploratory data analysis (EDA)
+
+
+Built interactive Power BI dashboards
+
+
+Delivered actionable business insights
+
+
