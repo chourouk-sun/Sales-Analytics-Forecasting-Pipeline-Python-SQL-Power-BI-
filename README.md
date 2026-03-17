@@ -1,3 +1,6 @@
+Handled inconsistent date formats using robust datetime parsing with day-first logic and error handling.
+ “The dataset does not include profit information; therefore, analysis focuses on sales performance and trends.”
+ 
 # Sales-Analytics-Forecasting-Pipeline-Python-SQL-Power-BI-
 
 ## Project Overview 
