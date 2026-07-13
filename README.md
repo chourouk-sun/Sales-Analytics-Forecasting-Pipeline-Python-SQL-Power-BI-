@@ -70,7 +70,7 @@ FROM clean_sales_data;
   - Category & regional performance
 
 ## Screenshot:
-/dashboard/dashboard_preview.png
+/dashboard/Executive Overview.png
 
 ### Key Business Insights 
 - Technology category generated the highest revenue
@@ -95,11 +95,13 @@ FROM clean_sales_data;
 
 ### Executive Overview
 
-![Dashboard](data/dashboard_overview.png)
+![Dashboard](dashboard/Executive Overview.png)
 
 ### Interactive Analysis
 
-![Dashboard](data/dashboard_filters.png)
+![Dashboard](dashboard_filters/visual & filter.png)
+![Dashboard](dashboard/Product & Category Analysis.png)
+![Dashboard](dashboard/Time Series & Forecast.png)
 
 
 ## Notes
