@@ -95,12 +95,11 @@ FROM clean_sales_data;
 
 ### Executive Overview
 
-![Dashboard](dashboard_overview.png)
+![Dashboard](data/dashboard_overview.png)
 
 ### Interactive Analysis
 
-![Dashboard](dashboard_filters.png)
-
+![Dashboard](data/dashboard_filters.png)
 
 
 ## Notes
